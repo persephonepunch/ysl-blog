@@ -3,6 +3,10 @@
 markdown: kramdown
 permalink: pretty
 
+baseurl: "/ysl-blog"
+url: "http://persephonepunch.github.io"
+tagline: "blog done in Jekyll/Liquid"
+
 port: 8000
 
 include: ['_includes/work']

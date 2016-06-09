@@ -1,5 +1,7 @@
 ---
-title: Fresh It Up
+title: Forbes Mobile App Development
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Forbes](assets/img/work/proj-5/forbesmobile.jpg)
+Concept. Prototype. Solutions Architecture
+[Schematic](http://www.ysl150.com/yslt/forbes.pdf)

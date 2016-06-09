@@ -1,7 +1,7 @@
 header
   @extend %background-image
   background:
-    position: 30px 20px, 50% 50%
+    position: 0px 0px, 50% 50%
     image: url(../img/#{$logo-path}), url(../img/#{$hero-path})
   padding-bottom: 50px
 
@@ -9,10 +9,10 @@ header
   .logo
     +size(50px)
     float: left
-    margin: 10px 0 0 30px
+    margin: 0px 0 0 0px
 
     path
-      fill: rgba(0,0,0,0.4)
+      fill: rgba(0,0,0,0.0)
 
   nav
     float: right
@@ -22,32 +22,29 @@ header
       display: inline-block
       margin-left: 20px
 
-      color: rgba(0,0,0,0.7)
-      @extend %small-bold
+      color: white
+      @extend %nav
 
       &:hover
-        color: rgba(0,0,0,1)
+        color: #444444
 
-  h1
+  h3
     text-align: center
-    font:
-      size: 72px
-      weight: 700
     color: white
     text-transform: uppercase
-    letter-spacing: 0.05em
+    letter-spacing: 0.1em
     margin-bottom: 20px
     clear: both
-    padding-top: 100px
+    padding-top: 50px
 
 
     span
       display: inline-block
-      padding: 0.2em 0.5em
-      border: white solid 10px
+      padding: 0.4em 0.5em
+      border: white solid 1px
 
   .kicker
-    @extend %small-bold
+    @extend %small
     text-align: center
     letter-spacing: 0.05em
     color: white

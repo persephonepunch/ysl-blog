@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: YSL150
+description: Designer | Developer
+email: yoonsunlee150@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -20,8 +20,8 @@ menu:
 
 seo:
   description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-author: 'https://plus.google.com/u/0/117295259863091022096/posts'
+  rel-publisher: 'https://plus.google.com/u/0/117295259863091022096'
 
 #-------------------------------
 # Google Analytics Section
@@ -39,34 +39,31 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+  **Yoonsun** is a creator.
+  She started out as a print designer who went to RISD.
+  She got the technology bug. Along the way she learned how things work.
+  You can find her more of her work here [ysl150.com](http://www.ysl150.com/){:target="_blank"}.
 
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
-- {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: Design, value: '10'}
+- {name: UX, value: '10'}
+- {name: Discovery, value: '10'}
+- {name: Persona, value: '10'}
+- {name: Proof of Concept, value: '10'}
+- {name: Product Development, value: '10'}
+- {name: PR and Launch Programs, value: '10'}
+- {name: Interactive Education/Intranets, value: '10'}
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: HBO GO, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Cinemax GO, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Affiliate/IOT POC, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Forbes, folder: 'proj-5', file: 'work/proj-5.html'}
+
 
 
 
@@ -75,37 +72,21 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+- {avatar: 'face-carley.jpg',
+  name: 'Carley Roney',
+  title: 'Co-Founder of the knot.com',
+  quote: '<p><strong>She is very creative, knows her stuff</strong> and always knows what is going on on the cutting edge of digital design. She also is great at the basics -- brilliant design, great typography, nice usability, etc. She has done online, brand work, as well as print design for me over the years. She is also great for my staff to work with becuase she is very nice to everyone, no matter what their place on the totem pole. She is encouraging, nurturing, teaches well, etc. And finally she is a great person to have around, warm, friendly, good natured and always has a positive outlook on life.</p>',
   logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
-  logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
+
 
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'twitter', link: 'http://twitter.com/everdenepublic'}
+- {icon: 'behance', link: 'https://www.behance.net/ysl150'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yoonsunlee'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
