@@ -76,7 +76,21 @@ clients:
   name: 'Carley Roney',
   title: 'Co-Founder of the knot.com',
   quote: '<p><strong>She is very creative, knows her stuff</strong> and always knows what is going on on the cutting edge of digital design. She also is great at the basics -- brilliant design, great typography, nice usability, etc. She has done online, brand work, as well as print design for me over the years. She is also great for my staff to work with becuase she is very nice to everyone, no matter what their place on the totem pole. She is encouraging, nurturing, teaches well, etc. And finally she is a great person to have around, warm, friendly, good natured and always has a positive outlook on life.</p>',
-  logo: 'logo1.png'}
+ }
+- {avatar: 'face-maynard.jpg',
+  name: 'Maynard Kay',
+  title: 'Creative Director, HBO',
+  quote: '<p><strong>A great mentor and a great friend,</strong> she is incredibly creative and passionate about her work. Her ability to remain ahead of the curve with tech and design trends make her an invaluable asset for any team.</p>',
+ }
+  
+- {avatar: 'face-fayette.jpg',
+  name: 'Fayette Hickox',
+  title: 'Creative Director, Clinique',
+  quote: '<p><strong>Yoonsun is a blazing talent,                 </strong>  <br> utterly civilized and a total delight.</p>',
+ }
+  
+  
+
 
 
 
